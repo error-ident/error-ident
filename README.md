@@ -8,5 +8,5 @@ Golang, Web, SEO, Linux, etc...
 
 [![Spotify](https://innsmouth.vercel.app/api/spotify)](https://open.spotify.com/user/y34r75db5o7eksagdl8lsaamw)
 
-[![Spotify](http://localhost:8081/)](https://open.spotify.com/user/y34r75db5o7eksagdl8lsaamw)
+[![Spotify](http://localhost/)](https://open.spotify.com/user/y34r75db5o7eksagdl8lsaamw)
 
