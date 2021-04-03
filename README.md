@@ -8,6 +8,3 @@ Golang, Web, SEO, Linux, etc...
 
 [![Spotify](http://invisibles.tk:1984/spotify)](https://open.spotify.com/user/y34r75db5o7eksagdl8lsaamw)
 
-
-[![Spotify2](https://innsmouth.vercel.app/api/spotify)](https://open.spotify.com/user/y34r75db5o7eksagdl8lsaamw)
-
