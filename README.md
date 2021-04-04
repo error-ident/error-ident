@@ -8,6 +8,4 @@ Golang, Web, SEO, Linux, etc...
 
 [![Spotify](http://92.119.90.17)](https://open.spotify.com/user/y34r75db5o7eksagdl8lsaamw)
 
-[![Spotify](https://spotify-status.vercel.app/api/run-spotify-status)](https://open.spotify.com/user/y34r75db5o7eksagdl8lsaamw)
-
 
