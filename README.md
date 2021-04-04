@@ -8,3 +8,6 @@ Golang, Web, SEO, Linux, etc...
 
 [![Spotify](http://92.119.90.17/)](https://open.spotify.com/user/y34r75db5o7eksagdl8lsaamw)
 
+
+[![Spotify](https://innsmouth.vercel.app/api/spotify)](https://open.spotify.com/user/y34r75db5o7eksagdl8lsaamw)
+
