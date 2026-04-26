@@ -11,7 +11,7 @@
 
 ### The last song that I've listened to:
 
-[![yandex](http://93.92.199.177:1337/lasthub)](https://music.yandex.ru/users/Invisible-sleeper/albums)
+[![card](https://api.voidrc.ru/music/card.svg)]
 
 </div>
 
